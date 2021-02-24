@@ -2,7 +2,7 @@
 [![](https://github.com/nmpatterson22/word_ladder/workflows/tests/badge.svg)](https://github.com/mikeizbicki/word_ladder/actions?query=workflow%3Atests)
 
 You will implement a solution to Lewis Carroll's [word ladder game](https://en.wikipedia.org/wiki/Word_ladder).
-
+Yay!
 **Learning Objectives:**
 
 1. implement a complex algorithm involving both queues and stacks

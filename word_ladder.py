@@ -33,7 +33,8 @@ def word_ladder(start_word, end_word, dictionary_file='words5.dict'):
     '''
     dictionary = open(dictionary_file)
     words = dictionary.read().split('\n')
-    # create a stack 
+    # create a stack
+    # this intializes a stack!
     list = []
     # push first word into stack
     list.append(start_word)
