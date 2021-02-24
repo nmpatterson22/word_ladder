@@ -41,7 +41,7 @@ def word_ladder(start_word, end_word, dictionary_file='words5.dict'):
     list = []
     # push first word into stack
     list.append(start_word)
-    # create a queue
+    # create a queue!
     queue = deque()
     queue.append(list)
 
